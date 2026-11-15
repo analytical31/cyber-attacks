@@ -33,3 +33,37 @@ Interactive dashboard development</br>
 KPI monitoring</br>
 Data visualization and reporting</br>
 Drill-through analysis and filtering</br>
+
+
+<img width="1281" height="720" alt="Screenshot 2026-11-15 185808" src="https://github.com/user-attachments/assets/6e4ee50d-de13-477b-8d7c-cb6204801e87" />
+
+
+## Business Insights</br>
+Most login attempts were successfully authenticated, indicating stable user access behavior.</br>
+Failed login attempts highlight potential security risks and unauthorized access attempts.</br>
+Country-level analysis helps identify geographic trends and monitor suspicious login locations.</br>
+User activity tracking assists in detecting abnormal login behavior and potential security incidents.</br>
+## Project Workflow</br>
+Data Collection</br>
+Data Cleaning using SQL & Python</br>
+Data Transformation and Feature Engineering</br>
+Exploratory Data Analysis (EDA)</br>
+Dashboard Development in Power BI</br>
+Security Insights Generation</br>
+## Skills Demonstrated</br>
+SQL Query Writing</br>
+Data Cleaning & Transformation</br>
+Python Data Analysis</br>
+Data Visualization</br>
+Power BI Dashboard Development</br>
+KPI Design</br>
+Cyber Security Analytics</br>
+Business Intelligence Reporting</br>
+## Future Enhancements</br>
+Real-time threat monitoring</br>
+Automated alert generation</br>
+Machine Learning-based anomaly detection</br>
+Login risk scoring system</br>
+Integration with SIEM tools</br>
+## Project Outcome</br>
+This project showcases the practical application of Data Analytics and Business Intelligence techniques in Cyber Security, transforming raw login records into meaningful insights that support security monitoring and decision-making</br>
