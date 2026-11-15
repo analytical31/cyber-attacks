@@ -70,7 +70,7 @@ This project showcases the practical application of Data Analytics and Business 
 
 
 
-Author: Hanumant Kakade</br>
+## Author: Hanumant Kakade</br>
 Role: Data Analyst | Business Analyst</br>
 Project Type: CyberSecurity Analytics Dashboard</br>
 Tool: MySQL, Python-(Numply, Pandas, Matplotlib, Seaborn), Power BI</br>
