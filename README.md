@@ -26,7 +26,7 @@ Data preprocessing and validation</br>
 Exploratory Data Analysis (EDA)</br>
 Data quality checks using Pandas, NumPy, and visualization libraries</br>
 
-
+-<a href="https://github.com/analytical31/cyber-attacks/blob/main/visualization.ipynb">Python analysis</a></br>
 
 ## Power BI</br>
 Interactive dashboard development</br>
