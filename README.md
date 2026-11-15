@@ -67,3 +67,10 @@ Login risk scoring system</br>
 Integration with SIEM tools</br>
 ## Project Outcome</br>
 This project showcases the practical application of Data Analytics and Business Intelligence techniques in Cyber Security, transforming raw login records into meaningful insights that support security monitoring and decision-making</br>
+
+
+
+Author: Hanumant Kakade</br>
+Role: Data Analyst | Business Analyst</br>
+Project Type: CyberSecurity Analytics Dashboard</br>
+Tool: MySQL, Python-(Numply, Pandas, Matplotlib, Seaborn), Power BI</br>
