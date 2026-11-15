@@ -13,3 +13,23 @@ Provide interactive filtering for detailed investigation.</br>
 
 
 -<a href="https://github.com/analytical31/cyber-attacks/blob/main/security_logs.csv"> CSV file </a> </br>
+
+## SQL
+Data extraction and querying
+Data cleaning and transformation
+Creation of analytical datasets
+
+-<a href="https://github.com/analytical31/cyber-attacks/blob/main/cybersecurityanalysis.sql"> </a> </br>
+
+## Python
+Data preprocessing and validation
+Exploratory Data Analysis (EDA)
+Data quality checks using Pandas, NumPy, and visualization libraries
+
+
+
+## Power BI
+Interactive dashboard development
+KPI monitoring
+Data visualization and reporting
+Drill-through analysis and filtering
